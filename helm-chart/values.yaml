@@ -195,3 +195,9 @@ cartDatabase:
     endpointAddress: ""
     endpointPort: ""
     certificate: ""
+
+grafanaAgent:
+  enabled: true
+  name: grafana-agent
+  # Add any additional configuration for the Grafana Agent here, such as image repository, image tag, etc.
+
